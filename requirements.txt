@@ -1,0 +1,7 @@
+Python==2.7.6
+Tensorflow==1.14.0
+h5py==4
+dash==1.9.1
+scipy==1.1.0
+scikit-plot==0.3.7
+pillow==6.1.0
