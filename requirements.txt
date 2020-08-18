@@ -1,4 +1,4 @@
-Python==2.7.6
+Python==3.6
 Tensorflow==1.14.0
 h5py==4
 dash==1.9.1
